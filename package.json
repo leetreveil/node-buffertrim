@@ -1,0 +1,29 @@
+{
+  "name": "node-buffertrim",
+  "version": "1.0.0",
+  "description": "Trim nulls (0x00) from buffers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leetreveil/node-buffertrim.git"
+  },
+  "keywords": [
+    "buffer",
+    "trim",
+    "strip",
+    "trimEnd",
+    "trimStart"
+  ],
+  "author": "Lee Treveil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leetreveil/node-buffertrim/issues"
+  },
+  "homepage": "https://github.com/leetreveil/node-buffertrim",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
+}
